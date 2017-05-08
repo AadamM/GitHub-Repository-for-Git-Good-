@@ -5,3 +5,5 @@ function onLoad(){
 
 	Octo-creatures need to stick together, ya feel?
 }
+
+I added more code here just 'cause I can.
