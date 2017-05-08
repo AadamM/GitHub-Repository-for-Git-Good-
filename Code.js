@@ -3,7 +3,7 @@ function onLoad(){
 
 	I never asked, but why does Octocat hate Octodog?
 
-	WERDS!
+	jimmy cracked werds (and i care...maybe)
 }
 
 I chaged code here just 'cause I can.
